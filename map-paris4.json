@@ -954,8 +954,18 @@
          "source":"..\/eiffel_pixel_384.tsx"
         }, 
         {
+         "columns":20,
          "firstgid":465,
-         "source":"..\/eiffel_pixel_640.tsx"
+         "image":"..\/eiffel_pixel_640.png",
+         "imageheight":640,
+         "imagewidth":640,
+         "margin":0,
+         "name":"eiffel_pixel_640",
+         "spacing":0,
+         "tilecount":400,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
