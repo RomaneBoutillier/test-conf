@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":20,
@@ -68,6 +69,12 @@
          "id":2,
          "name":"bottom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":19,
@@ -941,14 +948,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "firstgid":321,
-         "source":"..\/eiffel_pixel_384.tsx"
-        }, 
-        {
-         "firstgid":465,
-         "source":"..\/eiffel_pixel_640.png.tsx"
         }],
  "tilewidth":32,
  "type":"map",
