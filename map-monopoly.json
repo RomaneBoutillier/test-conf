@@ -21,6 +21,12 @@
          "id":11,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/mensuel.framapad.org\/p\/tips-map-9mbr?lang=fr"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
@@ -40,7 +46,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -58,7 +64,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -76,7 +82,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -94,7 +100,7 @@
                  "value":"https:\/\/thinkshell.fr\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -106,7 +112,7 @@
          "name":"Salle0",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -124,7 +130,7 @@
                  "value":"https:\/\/play.workadventu.re\/_\/global\/romanegithub.github.io\/test-conf\/map-verte.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -142,7 +148,7 @@
                  "value":"https:\/\/play.workadventu.re\/_\/global\/romanegithub.github.io\/test-conf\/map-bleue.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -165,7 +171,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -177,7 +183,7 @@
          "name":"Seine",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -189,7 +195,7 @@
          "name":"Monuments",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -201,7 +207,7 @@
          "name":"Ponts",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
@@ -213,7 +219,7 @@
          "name":"Vincennes",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":150,
          "x":0,
          "y":0
