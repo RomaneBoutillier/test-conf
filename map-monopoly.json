@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/document\/d\/1GY06CgF5n-Ap7NK4qj-JvlQJ_WLdixzLabz4qkkVwVY\/edit"
+                 "value":"https:\/\/docs.google.com\/document\/d\/1GY06CgF5n-Ap7NK4qj-JvlQJ_WLdixzLabz4qkkVwVY\/edit?usp=sharing"
                 }],
          "type":"tilelayer",
          "visible":true,
