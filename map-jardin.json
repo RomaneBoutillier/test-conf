@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/romanegithub.github.io\/test-conf\/map-monopoly.json#entry-jardin"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/romanegithub.github.io\/test-conf\/map-monopoly.json#entry_jardin"
                 }],
          "type":"tilelayer",
          "visible":true,
