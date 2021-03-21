@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":21,
@@ -51,6 +52,11 @@
          "name":"bottom",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"https:\/\/meet.jit.si\/LengthyTasksReassureRound"
+                }, 
                 {
                  "name":"silent",
                  "type":"bool",
